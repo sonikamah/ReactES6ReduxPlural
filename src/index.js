@@ -1,0 +1,1 @@
+console.log("Helloo "); // no console rule in ES lint file
